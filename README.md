@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @GEYWYD
-- 👀 I’m interested in games
-- 🌱 I’m currently learning next.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 GEYWYD/GEYWYD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
