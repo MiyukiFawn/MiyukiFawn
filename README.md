@@ -9,7 +9,7 @@
     <a href="https://wa.me/+5514998761028" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/mario-antonio-704b2a28b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </div>
@@ -74,9 +74,12 @@ Minha especialidade inclui Angular, Typescript (ES6), C#, Java e Dart(Flutter).
 - Angular
 - Bootstrap
 
-**Screenshots**
+<details>
+    <summary><h3>Screenshots</h3></summary>
 
 ![Frost Shorter](https://i.imgur.com/P47Rr9O.png)
+
+</details>
 
 ---
 
@@ -94,10 +97,14 @@ Minha especialidade inclui Angular, Typescript (ES6), C#, Java e Dart(Flutter).
 - Angular
 - Bootstrap
 
-**Screenshots**
+
+<details>
+    <summary><h3>Screenshots</h3></summary>
 
 ![Main page](https://i.imgur.com/tLj6nDX.png)
 ![Sign up page](https://i.imgur.com/6UfUQXP.png)
+
+</details>
 
 ---
 
