@@ -30,8 +30,6 @@
 
 <img align="left" alt="NodeJS" width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Angular" width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-
 <img align="left" alt="MySQL" width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <img align="left" alt="PostgreSQL" width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
