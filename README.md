@@ -48,7 +48,7 @@
 
 Desenvolvedor Fullstack com habilidades em Node.js e experiência em Banco de dados SQL e NoSQL. 
 
-Familiarizado com metodologias ágeis e organização de projetos.Conhecimento em algorítimos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor.Já trabalhei como Desenvolvedor Fullstack, aprimorando minhas habilidades na criação de aplicações web e mobile. Minha especialidade inclui Angular, Typescript (ES6), C# e Dart(Flutter).
+Familiarizado com metodologias ágeis e organização de projetos.Conhecimento em algorítimos e estrutura de dados. Proativo e em busca de oportunidades para ampliar minha experiência como desenvolvedor. Já trabalhei como Desenvolvedor Fullstack, aprimorando minhas habilidades na criação de aplicações web e mobile. Minha especialidade inclui Angular, Typescript (ES6), C# e Dart(Flutter).
 
 ---
 
