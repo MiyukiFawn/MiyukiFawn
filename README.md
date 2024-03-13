@@ -1,4 +1,9 @@
-# Olá! Eu sou a Mary
+     ╱|、
+    (˚ˎ 。7  
+    |、˜〵          
+    じしˍ,)ノ
+
+<!-- # Olá! Eu sou a Mary
 
 ### Entre em contato
 
@@ -115,4 +120,4 @@ Familiarizada com metodologias ágeis e organização de projetos. Conhecimento 
 
 - Desenvolvimento de softwares em WPF
 
-</details>
+</details> -->
